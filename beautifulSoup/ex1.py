@@ -1,5 +1,5 @@
 # pip install beautifulSoup
-# beautifulSoup/ex1.py
+# beautifulSoup/nvCrawler.py
 
 from urllib.request import urlopen
 from bs4 import BeautifulSoup

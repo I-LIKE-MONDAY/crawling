@@ -19,3 +19,6 @@ for i in soup.find_all('div', {'class':'go_trans _article_content'}) :
 f.close()
 
 print('end~~~~')
+
+a = os.getcwd()
+print(a)
